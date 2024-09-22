@@ -1,0 +1,440 @@
+############### CON REPETICIONES
+
+
+MENU DEL DIA 1
+
+Platos del desayuno: [peraPlato] y [zumodenaranja]
+Platos de la comida: [paellacarne] y [pastaconpesto]
+Postre de la comida: [melocotonPlato]
+Platos de la cena: [sopadeguisantes] y [fideua]
+Postre de la cena: [peraPlato]
+
+Para su edad y nivel de actividad física se recomienda que consuma 2293 calorias.
+Hoy ha consumido 2252 calorias en su menú.
+De las cuales 1212 son hidratos de carbono, 713.7 son grasas, 354.4 son proteinas y 27.8 gramos de fibra
+
+MENU DEL DIA 2
+
+Platos del desayuno: [tostadaconaguacate] y [melocotonPlato]
+Platos de la comida: [paellacarne] y [sopadetomate]
+Postre de la comida: [zumodenaranja]
+Platos de la cena: [pastaconpesto] y [gambasalaplancha]
+Postre de la cena: [tartadefrutosrojos]
+
+Para su edad y nivel de actividad física se recomienda que consuma 2293 calorias.
+Hoy ha consumido 2306 calorias en su menú.
+De las cuales 1146.8 son hidratos de carbono, 763.2 son grasas, 408.8 son proteinas y 25.6 gramos de fibra
+
+MENU DEL DIA 3
+
+Platos del desayuno: [yogurnaturalPlato] y [tartadefrutosrojos]
+Platos de la comida: [paellapescado] y [bistec]
+Postre de la comida: [melonPlato]
+Platos de la cena: [risotto] y [sopa]
+Postre de la cena: [tartadefrutosrojos]
+
+Para su edad y nivel de actividad física se recomienda que consuma 2293 calorias.
+Hoy ha consumido 2261 calorias en su menú.
+De las cuales 1138.0 son hidratos de carbono, 756.9 son grasas, 364.0 son proteinas y 21.0 gramos de fibra
+
+MENU DEL DIA 4
+
+Platos del desayuno: [manzanaPlato] y [platanoPlato]
+Platos de la comida: [fideua] y [sopadeguisantes]
+Postre de la comida: [sandiaPlato]
+Platos de la cena: [estofadodecerdo] y [paellacarne]
+Postre de la cena: [peraPlato]
+
+Para su edad y nivel de actividad física se recomienda que consuma 2293 calorias.
+Hoy ha consumido 2154 calorias en su menú.
+De las cuales 1032 son hidratos de carbono, 748.8 son grasas, 414.4 son proteinas y 28.7 gramos de fibra
+
+MENU DEL DIA 5
+
+Platos del desayuno: [peraPlato] y [melocotonPlato]
+Platos de la comida: [tortilladepatata] y [pastaconpesto]
+Postre de la comida: [manzanaPlato]
+Platos de la cena: [rapealhorno] y [arrozcubana]
+Postre de la cena: [tartadefrutosrojos]
+
+Para su edad y nivel de actividad física se recomienda que consuma 2293 calorias.
+Hoy ha consumido 2265 calorias en su menú.
+De las cuales 1142.0 son hidratos de carbono, 741.6 son grasas, 395.6 son proteinas y 28.7 gramos de fibra
+
+MENU DEL DIA 6
+
+Platos del desayuno: [natillas] y [tartadefrutosrojos]
+Platos de la comida: [estofadodecerdo] y [berenjenasalaparmesana]
+Postre de la comida: [platanoPlato]
+Platos de la cena: [sopadetomate] y [polloalaplancha]
+Postre de la cena: [sandiaPlato]
+
+Para su edad y nivel de actividad física se recomienda que consuma 2293 calorias.
+Hoy ha consumido 2178 calorias en su menú.
+De las cuales 1056.0 son hidratos de carbono, 760.5 son grasas, 410.8 son proteinas y 23.0 gramos de fibra
+
+MENU DEL DIA 7
+
+Platos del desayuno: [zumodenaranja] y [platanoPlato]
+Platos de la comida: [paellacarne] y [ensaladadetomate]
+Postre de la comida: [melonPlato]
+Platos de la cena: [fideua] y [garbanzosguisados]
+Postre de la cena: [natillas]
+
+Para su edad y nivel de actividad física se recomienda que consuma 2293 calorias.
+Hoy ha consumido 2178 calorias en su menú.
+De las cuales 1122.4 son hidratos de carbono, 745.2 son grasas, 344.8 son proteinas y 24.5 gramos de fibra
+
+
+################## SIN REPETICIONES
+
+MENU DEL DIA 1
+
+Platos del desayuno: [yogurnaturalPlato] y [manzanaPlato]
+Platos de la comida: [risotto] y [croquetasbacalao]
+Postre de la comida: [platanoPlato]
+Platos de la cena: [ensaladadelentejas] y [tortilladepatata]
+Postre de la cena: [sandiaPlato]
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1619 calorias en su menú.
+De las cuales 888.8 son hidratos de carbono, 492.3 son grasas, 248.4 son proteinas y 26.6 gramos de fibra
+
+MENU DEL DIA 2
+
+Platos del desayuno: [yogurnaturalPlato] y [tostadaconaguacate]
+Platos de la comida: [sopadetomate] y [huevoduroconatun]
+Postre de la comida: [natillas]
+Platos de la cena: [croquetassetas] y [pastabolonesa]
+Postre de la cena: [zumodenaranja]
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1693 calorias en su menú.
+De las cuales 838.4 son hidratos de carbono, 495.0 son grasas, 297.2 son proteinas y 20.2 gramos de fibra
+
+MENU DEL DIA 3
+
+Platos del desayuno: [peraPlato] y [naranjaPlato]
+Platos de la comida: [croquetas] y [hummus]
+Postre de la comida: [yogurnaturalPlato]
+Platos de la cena: [tortilladepatata] y [huevoduroconatun]
+Postre de la cena: [tartadefrutosrojos]
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1552 calorias en su menú.
+De las cuales 751.2 son hidratos de carbono, 555.3 son grasas, 291.2 son proteinas y 24.2 gramos de fibra
+
+MENU DEL DIA 4
+
+Platos del desayuno: [melocotonPlato] y [cafeconleche]
+Platos de la comida: [gazpacho] y [paellapescado]
+Postre de la comida: [naranjaPlato]
+Platos de la cena: [croquetassetas] y [gambasalaplancha]
+Postre de la cena: [tartadefrutosrojos]
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1743 calorias en su menú.
+De las cuales 830.4 son hidratos de carbono, 508.5 son grasas, 322.0 son proteinas y 22.6 gramos de fibra
+
+MENU DEL DIA 5
+
+Platos del desayuno: [peraPlato] y [zumodenaranja]
+Platos de la comida: [ensaladadelentejas] y [rapealaplancha]
+Postre de la comida: [tartadefrutosrojos]
+Platos de la cena: [croquetassetas] y [ensalada]
+Postre de la cena: [yogurnaturalPlato]
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1633 calorias en su menú.
+De las cuales 879.2 son hidratos de carbono, 498.6 son grasas, 320.8 son proteinas y 28.9 gramos de fibra
+
+MENU DEL DIA 6
+
+Platos del desayuno: [yogurnaturalPlato] y [melocotonPlato]
+Platos de la comida: [paellacarne] y [risotto]
+Postre de la comida: [mandarinaPlato]
+Platos de la cena: [berenjenasalaparmesana] y [garbanzosguisados]
+Postre de la cena: [melonPlato]
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1716 calorias en su menú.
+De las cuales 803.6 son hidratos de carbono, 553.5 son grasas, 323.2 son proteinas y 22.6 gramos de fibra
+
+MENU DEL DIA 7
+
+Platos del desayuno: [manzanaPlato] y [natillas]
+Platos de la comida: [hummus] y [sopadeguisantes]
+Postre de la comida: [tartadefrutosrojos]
+Platos de la cena: [huevoduroconatun] y [paellacarne]
+Postre de la cena: [naranjaPlato]
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1661 calorias en su menú.
+De las cuales 867.2 son hidratos de carbono, 538.2 son grasas, 299.6 son proteinas y 22.3 gramos de fibra
+
+
+
+############## DIFERENCIA PRIMERO SEGUNDO 
+MENU DEL DIA 1
+
+Platos del desayuno: Tarta de frutos rojos y Melocotón
+Platos de la comida: Huevo duro con atún y Paella de carne
+Postre de la comida: Trozos de sandía
+Platos de la cena: Garbanzos guisados y Fideuá de pescado al horno
+Postre de la cena: Plátano
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2027 calorias en su menú.
+De las cuales 1096.8 son hidratos de carbono, 603.9 son grasas, 386.0 son proteinas y 29.7 gramos de fibra
+
+MENU DEL DIA 2
+
+Platos del desayuno: Pera y Zumo natural de naranja
+Platos de la comida: Garbanzos guisados y Tortilla de patata
+Postre de la comida: Mandarina
+Platos de la cena: 3 croquetas de pollo y 3 croquetas de pollo
+Postre de la cena: Natillas
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2050 calorias en su menú.
+De las cuales 1019.6 son hidratos de carbono, 663.3 son grasas, 354.0 son proteinas y 27.0 gramos de fibra
+
+MENU DEL DIA 3
+
+Platos del desayuno: Tortilla a la francesa y Melocotón
+Platos de la comida: Risotto de setas y Bistec de ternera
+Postre de la comida: Yogur natural
+Platos de la cena: Ensalada de lentejas y Risotto de setas
+Postre de la cena: Tarta de frutos rojos
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 1953 calorias en su menú.
+De las cuales 908.4 son hidratos de carbono, 676.8 son grasas, 340.0 son proteinas y 21.8 gramos de fibra
+
+MENU DEL DIA 4
+
+Platos del desayuno: Yogur natural y Tortilla a la francesa
+Platos de la comida: Gazpacho y Paella de carne
+Postre de la comida: Pera
+Platos de la cena: Pasta boloñesa y Fideuá de pescado al horno
+Postre de la cena: Plátano
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 1987 calorias en su menú.
+De las cuales 968.4 son hidratos de carbono, 695.7 son grasas, 352.8 son proteinas y 24.7 gramos de fibra
+
+MENU DEL DIA 5
+
+Platos del desayuno: Plátano y Tostada con aguacate
+Platos de la comida: Gazpacho y Fideuá de pescado al horno
+Postre de la comida: Naranja
+Platos de la cena: Risotto de setas y Gambas a la plancha
+Postre de la cena: Zumo natural de naranja
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2003 calorias en su menú.
+De las cuales 1006.8 son hidratos de carbono, 622.8 son grasas, 382.0 son proteinas y 27.0 gramos de fibra
+
+MENU DEL DIA 6
+
+Platos del desayuno: Manzana y Plátano
+Platos de la comida: Arroz a la cubana y 3 croquetas de balacao
+Postre de la comida: Mandarina
+Platos de la cena: Pasta con pesto y Bistec de ternera
+Postre de la cena: Pera
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2110 calorias en su menú.
+De las cuales 1086.4 son hidratos de carbono, 695.7 son grasas, 328.0 son proteinas y 25.7 gramos de fibra
+
+MENU DEL DIA 7
+
+Platos del desayuno: Naranja y Tarta de frutos rojos
+Platos de la comida: 3 croquetas de pollo y Tortilla a la francesa
+Postre de la comida: Zumo natural de naranja
+Platos de la cena: Pasta boloñesa y Fideuá de pescado al horno
+Postre de la cena: Trozos de melón
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 1971 calorias en su menú.
+De las cuales 1020.4 son hidratos de carbono, 646.2 son grasas, 330.8 son proteinas y 22.1 gramos de fibra
+
+
+################### SIN REPETICIONES BIEN
+
+MENU DEL DIA 1
+
+Platos del desayuno: Naranja y Natillas
+Platos de la comida: Huevo duro con atún y Fideuá de pescado al horno
+Postre de la comida: Naranja
+Platos de la cena: Gazpacho y Pollo a la plancha
+Postre de la cena: Tarta de frutos rojos
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 1904 calorias en su menú.
+De las cuales 912.8 son hidratos de carbono, 643.5 son grasas, 395.6 son proteinas y 20.9 gramos de fibra
+
+MENU DEL DIA 2
+
+Platos del desayuno: Trozos de melón y Zumo natural de naranja
+Platos de la comida: Ensalada de lentejas y Estofado de cerdo
+Postre de la comida: Pera
+Platos de la cena: Paella de marisco y Risotto de setas
+Postre de la cena: Trozos de melón
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2006 calorias en su menú.
+De las cuales 1030.0 son hidratos de carbono, 612.0 son grasas, 370.4 son proteinas y 29.4 gramos de fibra
+
+MENU DEL DIA 3
+
+Platos del desayuno: Manzana y Trozos de sandía
+Platos de la comida: 3 croquetas de balacao y 3 croquetas de balacao
+Postre de la comida: Tarta de frutos rojos
+Platos de la cena: Pasta boloñesa y Fideuá de pescado al horno
+Postre de la cena: Melocotón
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2023 calorias en su menú.
+De las cuales 1013.6 son hidratos de carbono, 700.2 son grasas, 340.8 son proteinas y 22.7 gramos de fibra
+
+MENU DEL DIA 4
+
+Platos del desayuno: Plátano y Natillas
+Platos de la comida: Ensalada de lentejas y Pollo a la plancha
+Postre de la comida: Yogur natural
+Platos de la cena: Ensalada de tomate y 3 croquetas de pollo
+Postre de la cena: Plátano
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 1935 calorias en su menú.
+De las cuales 966.4 son hidratos de carbono, 654.3 son grasas, 370.8 son proteinas y 26.4 gramos de fibra
+
+MENU DEL DIA 5
+
+Platos del desayuno: Tostada con aguacate y Café con leche
+Platos de la comida: Tortilla de patata y Gambas a la plancha
+Postre de la comida: Manzana
+Platos de la cena: Pasta con pesto y Paella de marisco
+Postre de la cena: Zumo natural de naranja
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2012 calorias en su menú.
+De las cuales 972.8 son hidratos de carbono, 635.4 son grasas, 401.2 son proteinas y 22.6 gramos de fibra
+
+MENU DEL DIA 6
+
+Platos del desayuno: Plátano y Natillas
+Platos de la comida: 3 croquetas de balacao y 3 croquetas de balacao
+Postre de la comida: Mandarina
+Platos de la cena: 3 croquetas de boletus y Bistec de ternera
+Postre de la cena: Plátano
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 2047 calorias en su menú.
+De las cuales 934.8 son hidratos de carbono, 676.8 son grasas, 340.8 son proteinas y 20.1 gramos de fibra
+
+MENU DEL DIA 7
+
+Platos del desayuno: Naranja y Melocotón
+Platos de la comida: Ensalada de tomate y Paella de marisco
+Postre de la comida: Manzana
+Platos de la cena: Paella de carne y Fideuá de pescado al horno
+Postre de la cena: Naranja
+
+Para su edad y nivel de actividad física se recomienda que consuma 2006 calorias.
+Hoy ha consumido 1930 calorias en su menú.
+De las cuales 940.4 son hidratos de carbono, 682.2 son grasas, 326.0 son proteinas y 21.0 gramos de fibra
+
+
+
+
+############### NO REPETICIONES DE INGREDIENTES
+MENU DEL DIA 1
+
+Platos del desayuno: Trozos de melón y Tostada con aguacate
+Platos de la comida: Ensalada de tomate y Gambas a la plancha
+Postre de la comida: Plátano
+Platos de la cena: Ensalada de lentejas y Risotto de setas
+Postre de la cena: Trozos de sandía
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1599 calorias en su menú.
+De las cuales 761.2 son hidratos de carbono, 557.1 son grasas, 302.8 son proteinas y 29.7 gramos de fibra
+
+MENU DEL DIA 2
+
+Platos del desayuno: Pera y Tarta de frutos rojos
+Platos de la comida: Sopa de guisantes y 3 croquetas de boletus
+Postre de la comida: Manzana
+Platos de la cena: Fideuá de pescado al horno y Pollo a la plancha
+Postre de la cena: Mandarina
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1764 calorias en su menú.
+De las cuales 869.2 son hidratos de carbono, 492.3 son grasas, 307.2 son proteinas y 26.2 gramos de fibra
+
+MENU DEL DIA 3
+
+Platos del desayuno: Plátano y Tostada con aguacate
+Platos de la comida: Gazpacho y Gambas a la plancha
+Postre de la comida: Melocotón
+Platos de la cena: Tortilla de patata y Risotto de setas
+Postre de la cena: Naranja
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1648 calorias en su menú.
+De las cuales 822.8 son hidratos de carbono, 540.9 son grasas, 296.8 son proteinas y 29.3 gramos de fibra
+
+MENU DEL DIA 4
+
+Platos del desayuno: Yogur natural y Trozos de melón
+Platos de la comida: Ensalada de lentejas y 3 croquetas de balacao
+Postre de la comida: Mandarina
+Platos de la cena: Berenjenas a la parmesana y Paella de marisco
+Postre de la cena: Zumo natural de naranja
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1622 calorias en su menú.
+De las cuales 786.4 son hidratos de carbono, 505.8 son grasas, 312.4 son proteinas y 21.5 gramos de fibra
+
+MENU DEL DIA 5
+
+Platos del desayuno: Trozos de sandía y Naranja
+Platos de la comida: Hummus de garbanzos y Tortilla de patata
+Postre de la comida: Tarta de frutos rojos
+Platos de la cena: Sopa y Bacalao a la plancha
+Postre de la cena: Plátano
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1498 calorias en su menú.
+De las cuales 802.4 son hidratos de carbono, 494.1 son grasas, 322.8 son proteinas y 27.3 gramos de fibra
+
+MENU DEL DIA 6
+
+Platos del desayuno: Zumo natural de naranja y Yogur natural
+Platos de la comida: Garbanzos guisados y Paella de carne
+Postre de la comida: Melocotón
+Platos de la cena: Gazpacho y 3 croquetas de balacao
+Postre de la cena: Trozos de melón
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1589 calorias en su menú.
+De las cuales 756.8 son hidratos de carbono, 557.1 son grasas, 298.0 son proteinas y 23.4 gramos de fibra
+
+MENU DEL DIA 7
+
+Platos del desayuno: Plátano y Naranja
+Platos de la comida: Risotto de setas y Tortilla a la francesa
+Postre de la comida: Tarta de frutos rojos
+Platos de la cena: Ensalada y Rape al horno con patatas
+Postre de la cena: Pera
+
+Para su edad y nivel de actividad física se recomienda que consuma 1634 calorias.
+Hoy ha consumido 1710 calorias en su menú.
+De las cuales 890.0 son hidratos de carbono, 512.1 son grasas, 325.2 son proteinas y 26.7 gramos de fibra
+
+
+
+###### NO INGREDIENTES PRINCIPALES REPETIDOS
+
